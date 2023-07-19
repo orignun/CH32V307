@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//APP/file_check.c=UTF-8
+encoding//APP/photo.c=UTF-8
+encoding//APP/resources/ui_font_Font4.c=UTF-8
+encoding//APP/set_camera.c=UTF-8
+encoding//APP/set_file.c=UTF-8
+encoding//APP/set_network.c=UTF-8
+encoding//APP/set_screen.c=UTF-8
+encoding//APP/setting.c=UTF-8
+encoding//HAL/lcd.c=UTF-8
+encoding//HAL/pwm.c=UTF-8

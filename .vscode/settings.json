@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "spi.h": "c",
+        "set_network.h": "c"
+    }
+}
